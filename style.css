@@ -1,0 +1,6 @@
+@import './css/global.css'; /* CONFIGURAÇÕES PAGE */
+@import './css/header.css'; /* NAVEGAÇÃO PRINCIPAL */
+@import './css/introducao.css'; /* PRIMEIRA SECÇÃO MAIN */
+@import './css/experiencia.css'; /* SEGUNDA SECÇÃO EXPERIÊNCIAS */
+@import './css/formacao.css'; /* TERCEIRA SECÇÃO FORMAÇÃO */
+@import './css/footer.css'; /* QUARTA SECÇÃO FOOTER */

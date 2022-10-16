@@ -1,0 +1,134 @@
+.exp{
+  max-width: 1200px;
+  padding: 120px 20px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 100px;
+}
+
+@media(max-width: 800px){
+  .exp{
+    padding: 40px 20px;
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
+
+.exp .exp__detalheLateral{
+  color: #81CE81;
+}
+
+@media(max-width: 800px){
+  .exp .exp__detalheLateral{
+    color: #81CE81;
+  }
+}
+
+.exp__texto{
+  font-size: 1.5rem;
+  line-height: 1.33;
+  max-width: 60ch;
+  margin-bottom: 60px;
+  color: #3b443b;
+}
+
+@media(max-width: 800px){
+  .exp__texto{
+    font-size: 1.2rem;
+    max-width: 100ch;
+  }
+}
+
+@media(max-width: 400px){
+  .exp__texto{
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+}
+
+.exp__empresas{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px 20px;
+  padding: 20px;
+  background-color: #81CE81;
+  border: 1px solid #3f5a3f;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+@media(max-width: 400px){
+  .exp__empresas{
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+}
+
+.exp__empresas::before{
+  content: '';
+  display: block;
+  position: absolute;
+  border-radius: 3px;
+  top: 20px;
+  left: -4px;
+  width: 4px;
+  height: 20px;
+  background-color: #3f5a3f;
+}
+
+.exp__empresas__ano{
+  position: absolute;
+  top: 22px;
+  left: -80px;
+  color: #3b443b;
+  font-size: 0.875rem;
+  text-align: right;
+  width: 60px;
+}
+
+@media(max-width: 800px){
+  .exp__empresas__ano{
+    position: initial;
+    order: 1;
+    width: inherit;
+    text-align: left;
+    font-weight: bold;
+    color: #3b443b;
+  }
+
+  .exp__empresas__ano::before{
+    content: 'Ano: ';
+
+  }
+}
+
+.exp__empresas__titulo{
+  font-size: 1.125rem;
+  line-height: 1.1;
+  color: #3b443b;
+  font-weight: bold;
+}
+
+.exp__empresas__texto{
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: #3b443b;
+}
+
+.exp__empresas__habilidades{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: start;
+}
+
+.exp__empresas__habilidades li{
+  font-size: 0.875rem;
+  line-height: 1.4;
+  color: #3b443b;
+  background-color: #fff;
+  padding: 5px 10px;
+  border-radius: 3px;
+}
