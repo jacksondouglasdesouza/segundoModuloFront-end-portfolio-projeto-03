@@ -12,7 +12,8 @@ Desenvolvi o protótipo do projeto utilizando a tecnologia Figma, desenvolvi o m
 
 ### - LInk do projeto no Github: https://bit.ly/3VwPAsD
 
-### - link do projeto na web: https://bit.ly/3S3G90T    [![Netlify Status](https://api.netlify.com/api/v1/badges/5c78f316-4e76-45f6-9194-b39517ca443c/deploy-status)](https://app.netlify.com/sites/portfolio-beijaflor/deploys)
+### - link do projeto na web: https://bit.ly/3S3G90T
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5c78f316-4e76-45f6-9194-b39517ca443c/deploy-status)](https://app.netlify.com/sites/portfolio-beijaflor/deploys)
 
 
 Foi usado as seguintes tecnologias: 
