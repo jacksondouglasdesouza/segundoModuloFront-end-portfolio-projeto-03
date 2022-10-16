@@ -6,14 +6,13 @@ Grid templates, Flex - Posicionamento, CSS interativo, colorimetria, unidades de
 Desenvolvi o protótipo do projeto utilizando a tecnologia Figma, desenvolvi o mesmo para desktop e mobile. Meu projeto é baseado numa persona, o Beija Flor, um animal que tanto admiro e tenho respeito. Utilizei as tecnologias HTML5 E CSS3 nativo para o desenvolvimento da página web, está com responsividade de qualidade excelente e com dois parâmetros de quebra, @media tela < 800px, e para,  tela < 300px. Usei biblioteca do npm para limpeza e automatização do processo de redução dos bits do código CSS3;
 
 
-### - Link do protótipo no Figma: https://bit.ly/3fpnEGD 
+### - Link do protótipo no Figma: https://bit.ly/3VwjYmR
 
-### - Link da gravação de tela no youtube: https://youtu.be/DIsEui2YQf8 
+### - Link da gravação de tela no youtube: https://bit.ly/3T9nNNm 
 
-### - LInk do projeto no Github: https://bit.ly/3UMbXKu 
+### - LInk do projeto no Github: https://bit.ly/3VwPAsD
 
-### - link do projeto na web: https://bit.ly/3BR8wcK    [![Netlify Status](https://api.netlify.com/api/v1/badges/5f790a4e-b6c0-4e90-82af-24bf60c0e08c/deploy-status)](https://app.netlify.com/sites/ui-ix-projeto02-frontend/deploys)
-
+### - link do projeto na web: https://bit.ly/3S3G90T    [![Netlify Status](https://api.netlify.com/api/v1/badges/5c78f316-4e76-45f6-9194-b39517ca443c/deploy-status)](https://app.netlify.com/sites/portfolio-beijaflor/deploys)
 
 
 Foi usado as seguintes tecnologias: 
